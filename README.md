@@ -17,3 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+# Mi diseño AppBar
+-![image](https://github.com/aecortega/my_appbar_6J/assets/143548446/0d8c8af1-06dc-42b5-8e7a-4d1e0b06226d)
+
+## link de referencia
